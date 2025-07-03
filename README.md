@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm EL AIDI IDRISSI Achraf</h1>
-<h3 align="center">A passionate Software Engineering student driven by my love for Artificial Intelligence, Deep Learning, Mathematics, Cloud Computing, and solving challenges on LeetCode.</h3>
+<h3 align="center">A passionate Software Engineering driven by my love for Artificial Intelligence, Deep Learning, Mathematics, Cloud Computing, and solving challenges on LeetCode.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achrafidrissi&label=Profile%20views&color=0e75b6&style=flat" alt="achrafidrissi" /> </p>
 
